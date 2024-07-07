@@ -1,9 +1,9 @@
 ---
-title: "Categories3"
+title: "CS Knowledge"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/CSKnowledge/
 author_profile: true
-taxonomy: Categories3
+taxonomy: CSKnowledge
 sidebar:
   nav: "categories"
 ---
