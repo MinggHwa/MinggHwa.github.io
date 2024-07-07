@@ -8,6 +8,12 @@ comments: false
 
 
 <p align="center">
+  ---
+title: "Hi all! I'm Myoung-Hwa Shin👋🏻"
+permalink: /about/
+layout: single
+comments: false
+---
   <img src="/assets/images/aboutme.png" style="width: 350px;">
 
 </p>
