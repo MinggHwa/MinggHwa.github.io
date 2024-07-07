@@ -25,6 +25,9 @@ categories:
   - title: "CS Knowledge"
     url: /categories/CSKnowledge/
   - title: "Record"
+    children:
+      - title: "Daily"
+        url: /categories/Daily/
     url: /categories/Record/
   - title: "Git"
     url: /categories/Git/
