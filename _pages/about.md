@@ -8,7 +8,7 @@ comments: false
 
 
 <p align="center">
-  <img src="/assets/images/aboutme.png" style="width: 400px;">
+  <img src="/assets/images/aboutme.png" style="width: 250px;">
 
 </p>
 <p text-align="center">
