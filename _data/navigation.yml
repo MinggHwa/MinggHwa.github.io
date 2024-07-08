@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://mingghwa.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/MinggHwa
 
   # - title: "Projects"
   #   url: /projects/
@@ -18,11 +18,18 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "Javascript"
+    url: /categories/Javascript/
+  - title: "CodingTest"
+    url: /categories/CodingTest/
+  - title: "CS Knowledge"
+    url: /categories/CSKnowledge/
+  - title: "Record"
+    children:
+      - title: "Daily"
+        url: /categories/Daily/
+    url: /categories/Record/
+  - title: "Git"
+    url: /categories/Git/
+  - title: "TIL"
+    url: /categories/TIL/
