@@ -22,7 +22,7 @@ last_modified_at: 2021-10-09
 
 언제 다 하지 ?
 
-<img src='/assets/images/posts_img/노션글.png'>
+<img src='/assets/images/posts_img/post_notion_list.png'>
 
 
 **"차근 차근 해나가자"**
