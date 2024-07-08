@@ -12,8 +12,8 @@ permalink: /Daily/post-name-here/
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2024-07-08
+last_modified_at: 2024-07-08
 ---
 
 ## 블로그를 시작했다.
